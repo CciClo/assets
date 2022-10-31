@@ -9,4 +9,5 @@ const index = 10d;
 Just like calling the funds for the loader is the same
 
 const example = loader-whithe-shadoww-blue-black;
+
 `https://github.com/CciClo/assets/raw/main/loaderPage/${example}.gif`
