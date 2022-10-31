@@ -1,4 +1,4 @@
-example to call images from example for https://openweathermap.org
+example to call images for https://openweathermap.org
 
 const index = 10d;
 
