@@ -4,7 +4,7 @@
         "image":"https://github.com/CciClo/assets/raw/main/ProjectsImagesPortfolio/Pokedex.png",
         "github":" https://github.com/JesusEscalonaC/Entregable-5-pokedex-react",
         "online":"https://pokedex-jesusescalona-oscartandioy.netlify.app/",
-        "description":"Pokedex App, es una app que puede buscar y mostrar imformacion de los pokemones, la imformacion es optenida de la API pokeApi. Esta web app es creada utilizando Redux, React, React-router-dom y Axios, la app fue creada y trabajada en conjunto de dos personas tanto para estilos y funcionalidad.",
+        "description":"Pokédex App, is an app that can search and display information of pokemon, the information is obtained from the poke API API. This web app is created using Redux, React, React-router-dom and Axios, the app was created and worked together by two people for both styles and functionality.",
         "using":["React","Axios","React-router-dom","Redux"]
     },
     {
@@ -12,7 +12,7 @@
         "image":"https://github.com/CciClo/assets/raw/main/ProjectsImagesPortfolio/rick-y-morty.jpg",
         "github":"https://github.com/CciClo/Entrgable3",
         "online":"https://rickandmorty-jesus-oscar.netlify.app/",
-        "description":"Web App creada con React, Axios y React-router-dom, la app fue creada y trabajada en conjunto de dos personas tanto para estilos y funcionalidad. La app puede buscar, mostar imformacion de los personajes en su dimencion en la serie animada Rick and Morty utilizando la Api de rick and morty, da aleatoriamente ubicaciones, algunos mundos no tiene ciudadanos.",
+        "description":"Web App created with React, Axios and React-router-dom, the app was created and worked together by two people for both styles and functionality. The app can search, display information of the characters in their dimension in the animated series Rick and Morty using the Rick and Morty API, randomly gives locations, some worlds have no citizens.",
         "using":["React","Axios","React-router-dom"]
     },
     {
@@ -20,7 +20,7 @@
         "image":"https://github.com/CciClo/assets/raw/main/ProjectsImagesPortfolio/wheater.png",
         "github":"https://github.com/CciClo/weather-api-open",
         "online":"https://weather-open-oscar-tandioy.netlify.app/",
-        "description":"Web App creada con React y Axios. La app hace peticiones de la ubicacion y poder optener el tiempo del clima donde se encuentra, la app consume de la api weather.",
+        "description":"Web App created with React and Axios. The app makes requests for the location and to be able to obtain the weather of the weather where it is, the app consumes from the weather api.",
         "using":["React","Axios"]
     },
     {
@@ -28,7 +28,7 @@
         "image":"https://github.com/CciClo/assets/raw/main/ProjectsImagesPortfolio/quote.png",
         "github":"https://github.com/CciClo/Entregable1",
         "online":"https://quote-entregable-oscar-tandioy.netlify.app/",
-        "description":"web App creada con React. La app da citas aleatoriamente al igual que el color.",
+        "description":"Web App created with React. The app gives quotes randomly just like the color.",
         "using":["React"]
     },
     {
@@ -36,7 +36,7 @@
         "image":"https://github.com/CciClo/assets/raw/main/ProjectsImagesPortfolio/BoxShadowGenerator.png",
         "github":"https://github.com/CciClo/boxShadow",
         "online":"https://box-shadow-oscar-tandioy.netlify.app/",
-        "description":"Web App creada con HTML, CSS y JavaScript puro. La app genera el estilo tanto para la caja, la sombra y el fondo. Puede dar el color a la caja, tamaño y el borde. Desplazamiento de la sombra, tamaño, color. Dar un color al fondon, la app soporta tanto rgba y la paleta de colores integrada.",
+        "description":"Web App created with HTML, CSS and pure JavaScript. The app generates the style for both the box, the shadow and the background. You can give the color to the box, size and border. Shadow displacement, size, color. Give a color to the background, the app supports both rgba and the integrated color palette.",
         "using":["HTML","Css","JavaScript"]
     },
     {
@@ -44,7 +44,7 @@
         "image":"https://github.com/CciClo/assets/raw/main/ProjectsImagesPortfolio/E-commerce.png",
         "github":"https://github.com/CciClo/Entregable-6-E-commercer-React",
         "online":"https://e-comerce-oscar-jesus-react.netlify.app/",
-        "description":"App creada con React, Axios, React-router-dom, Redux y Bootstrap. La app puede crear usuarios, registarse, cerrar secion, eliminar productos del carro, añadir la cantidad necesaria al carro y ver la lista de compras realizadas.",
+        "description":"App created with React, Axios, React-router-dom, Redux and Bootstrap. The app can create users, log in, log out, remove products from the cart, add the necessary amount to the cart and view the list of purchases made.",
         "using":["React","Axios","Booststrap","React-router-dom", "Redux"]
     }
     
