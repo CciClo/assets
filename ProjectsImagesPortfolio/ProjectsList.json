@@ -1,5 +1,21 @@
 [
     {
+        "title":"Spacial Nave Godot",
+        "image":"https://github.com/CciClo/assets/raw/main/ProjectsImagesPortfolio/SpacialNave2DGodot.png",
+        "github":"https://github.com/CciClo/Spacial-Nave-2D-Godot",
+        "online":"https://spacial-nave-2d-godot-oscar.netlify.app/",
+        "description":"Game created with Godot engine",
+        "using":["Godot","GdScript"]
+    },
+    {
+        "title":"E-commerce",
+        "image":"https://github.com/CciClo/assets/raw/main/ProjectsImagesPortfolio/E-commerce.png",
+        "github":"https://github.com/CciClo/Entregable-6-E-commercer-React",
+        "online":"https://e-comerce-oscar-jesus-react.netlify.app/",
+        "description":"App created with React, Axios, React-router-dom, Redux and Bootstrap. The app can create users, log in, log out, remove products from the cart, add the necessary amount to the cart and view the list of purchases made.",
+        "using":["React","Axios","Booststrap","React-router-dom", "Redux"]
+    },
+    {
         "title":"Pokedex",
         "image":"https://github.com/CciClo/assets/raw/main/ProjectsImagesPortfolio/Pokedex.png",
         "github":" https://github.com/JesusEscalonaC/Entregable-5-pokedex-react",
@@ -38,22 +54,6 @@
         "online":"https://box-shadow-oscar-tandioy.netlify.app/",
         "description":"Web App created with HTML, CSS and pure JavaScript. The app generates the style for both the box, the shadow and the background. You can give the color to the box, size and border. Shadow displacement, size, color. Give a color to the background, the app supports both rgba and the integrated color palette.",
         "using":["HTML","Css","JavaScript"]
-    },
-    {
-        "title":"E-commerce",
-        "image":"https://github.com/CciClo/assets/raw/main/ProjectsImagesPortfolio/E-commerce.png",
-        "github":"https://github.com/CciClo/Entregable-6-E-commercer-React",
-        "online":"https://e-comerce-oscar-jesus-react.netlify.app/",
-        "description":"App created with React, Axios, React-router-dom, Redux and Bootstrap. The app can create users, log in, log out, remove products from the cart, add the necessary amount to the cart and view the list of purchases made.",
-        "using":["React","Axios","Booststrap","React-router-dom", "Redux"]
-    },
-    {
-        "title":"Spacial Nave Godot",
-        "image":"https://github.com/CciClo/assets/raw/main/ProjectsImagesPortfolio/SpacialNave2DGodot.png",
-        "github":"https://github.com/CciClo/Spacial-Nave-2D-Godot",
-        "online":"https://spacial-nave-2d-godot-oscar.netlify.app/",
-        "description":"Game created with Godot engine",
-        "using":["Godot","GdScript"]
-    }
+    }    
     
 ]
