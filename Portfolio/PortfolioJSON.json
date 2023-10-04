@@ -1,0 +1,166 @@
+{
+    "home": {
+        "title": {
+            "es": "Desarrollador Web Front-End",
+            "en": "Front-End Web Developer"
+        },
+        "name": {
+            "es": "Oscar Tandioy"
+        },
+        "description": {
+            "es": "Con conocimientos en HTML, CSS, Java Script y React. Soy una persona a la que le gusta reinventarme constantemente en busca de lograr un mejor rendimiento.\nMi perfil está orientado hacia el logro, la proactividad, la resolución de problemas y un espíritu de aprendizaje constante. He encontrado una gran pasión por el desarrollo web y la implementación de aplicaciones que buscan satisfacer necesidades sociales básicas.",
+            "en": "With knowledge in HTML, CSS, Java Script and React, I am a person who likes to constantly reinvent myself in search of better performance.\nMy profile is achievement oriented, proactive, problem solving and a constant learning spirit. I have found a great passion for web development and the implementation of applications that seek to meet basic social needs."
+        }
+    },
+    "portfolio": {
+        "title": {
+            "es": "Portafolio",
+            "en": "Portfolio"
+        },
+        "projects": [
+            {
+                "title": "Spacial Nave Godot",
+                "image": "https://github.com/CciClo/assets/raw/main/ProjectsImagesPortfolio/SpacialNave2DGodot.png",
+                "github": "https://github.com/CciClo/Spacial-Nave-2D-Godot",
+                "online": "https://spacial-nave-2d-godot-oscar.netlify.app/",
+                "description": {
+                    "es": "Juego creado con el motor Godot",
+                    "en": "Game created with the Godot engine"
+                },
+                "using": ["Godot", "GdScript"]
+            },
+            {
+                "title": "E-commerce",
+                "image": "https://github.com/CciClo/assets/raw/main/ProjectsImagesPortfolio/E-commerce.png",
+                "github": "https://github.com/CciClo/Entregable-6-E-commercer-React",
+                "online": "https://e-comerce-oscar-jesus-react.netlify.app/",
+                "description": {
+                    "es": "Aplicación creada con React, Axios, React-router-dom, Redux y Bootstrap. La aplicación puede crear usuarios, iniciar sesión, cerrar sesión, eliminar productos del carrito, agregar la cantidad necesaria al carrito y ver la lista de compras realizadas.",
+                    "en": "Application built with React, Axios, React-router-dom, Redux and Bootstrap. The application can create users, log in, log out, remove products from the cart, add the required quantity to the cart and view the list of purchases made."
+                },
+                "using": [
+                    "React",
+                    "Axios",
+                    "Booststrap",
+                    "React-router-dom",
+                    "Redux"
+                ]
+            },
+            {
+                "title": "Pokedex",
+                "image": "https://github.com/CciClo/assets/raw/main/ProjectsImagesPortfolio/Pokedex.png",
+                "github": " https://github.com/JesusEscalonaC/Entregable-5-pokedex-react",
+                "online": "https://pokedex-jesusescalona-oscartandioy.netlify.app/",
+                "description": {
+                    "es": "Pokédex App, es una aplicación que puede buscar y mostrar información de pokemon, la información se obtiene de la API de poke. Esta aplicación web se crea utilizando Redux, React, React-router-dom y Axios, la aplicación fue creada y trabajada conjuntamente por dos personas tanto para estilos como para funcionalidad.",
+                    "en": "Pokédex App, is an application that can search and display pokemon information, the information is obtained from the poke API. This web application is created using Redux, React, React-router-dom and Axios, the application was created and worked together by two people for both styles and functionality."
+                },
+                "using": ["React", "Axios", "React-router-dom", "Redux"]
+            },
+            {
+                "title": "Rick And Morty",
+                "image": "https://github.com/CciClo/assets/raw/main/ProjectsImagesPortfolio/rick-y-morty.jpg",
+                "github": "https://github.com/CciClo/Entrgable3",
+                "online": "https://rickandmorty-jesus-oscar.netlify.app/",
+                "description": "Aplicación web creada con React, Axios y React-router-dom, la aplicación fue creada y trabajada conjuntamente por dos personas tanto para estilos como para funcionalidad. La aplicación puede buscar, mostrar información de los personajes en su dimensión en la serie animada Rick y Morty utilizando la API de Rick y Morty, da ubicaciones al azar, algunos mundos no tienen ciudadanos.",
+                "using": ["React", "Axios", "React-router-dom"]
+            },
+            {
+                "title": "Weather App",
+                "image": "https://github.com/CciClo/assets/raw/main/ProjectsImagesPortfolio/wheater.png",
+                "github": "https://github.com/CciClo/weather-api-open",
+                "online": "https://weather-open-oscar-tandioy.netlify.app/",
+                "description": {
+                    "es": "Aplicación web creada con React y Axios. La aplicación realiza solicitudes para la ubicación y para poder obtener el clima del clima donde se encuentra, la aplicación consume desde el api del tiempo.",
+                    "en": "Web application created with React and Axios. The application makes requests for the location and in order to get the weather of the climate where it is, the application consumes from the weather api."
+                },
+                "using": ["React", "Axios"]
+            },
+            {
+                "title": "Quote",
+                "image": "https://github.com/CciClo/assets/raw/main/ProjectsImagesPortfolio/quote.png",
+                "github": "https://github.com/CciClo/Entregable1",
+                "online": "https://quote-entregable-oscar-tandioy.netlify.app/",
+                "description": {
+                    "es": "Aplicación web creada con React. La aplicación da citas al azar al igual que el color.",
+                    "en": "Web application created with React. The application gives random quotes as well as color."
+                },
+                "using": ["React"]
+            },
+            {
+                "title": "Box Shadow Generator",
+                "image": "https://github.com/CciClo/assets/raw/main/ProjectsImagesPortfolio/BoxShadowGenerator.png",
+                "github": "https://github.com/CciClo/boxShadow",
+                "online": "https://box-shadow-oscar-tandioy.netlify.app/",
+                "description": {
+                    "es": "Aplicación web creada con HTML, CSS y JavaScript puro. La aplicación genera el estilo tanto para la caja, la sombra y el fondo. Puedes darle el color a la caja, tamaño y borde. Desplazamiento de sombra, tamaño, color. Dale un color al fondo, la aplicación admite tanto RGBA como la paleta de colores integrada.",
+                    "en": "Web application created with HTML, CSS and pure JavaScript. The application generates the style for both the box, the shadow and the background. You can give the box color, size and border. Shift shadow, size, color. Give a color to the background, the application supports both RGBA and built-in color palette."
+                },
+                "using": ["HTML", "Css", "JavaScript"]
+            }
+        ],
+        "project buttons": {
+            "github": {
+                "title": { "es": "GitHub" }
+            },
+            "online": {
+                "title": { "es": "Ver la pagina", "en": "View page" }
+            }
+        }
+    },
+    "about me": {
+        "title": {
+            "es": "Acerca de mí",
+            "en": "About me"
+        },
+        "description": {
+            "es": "Soy un desarrollador Front-End apasionado por lo que hago, cada día disfruto más de los retos y aprendizajes que me presenta la tecnología.\nDurante este proceso he cultivado además de mis habilidades de programación una gran adaptación hacia el trabajo en equipo.\nMis habilidades técnicas, actualmente soy desarrollador Front-End. Tengo conocimientos en el manejo de HTML, CSS, JavaScript y React. Todo esto complementado con una gran cantidad de librerías para la comodidad del desarrollo como Bootstrap. También tengo conocimientos en desarrollo de aplicaciones de juegos con Godot.",
+            "en": "I am a Front-End developer passionate about what I do, every day I enjoy the challenges and learning that technology presents me.\nDuring this process I have cultivated, in addition to my programming skills, a great adaptation to teamwork.\nMy technical skills, I am currently a Front-End developer. I have knowledge in handling HTML, CSS, JavaScript and React. All this complemented with a lot of libraries for the convenience of development such as Bootstrap. I also have knowledge in game application development with Godot."
+        },
+        "information about me": [
+            {
+                "title": {
+                    "es": "Educación",
+                    "en": "Education"
+                },
+                "list": [
+                    {
+                        "year": "2022",
+                        "title": {
+                            "es": "Academlo"
+                        },
+                        "description title": {
+                            "es": "Fundamentos del desarrollo web",
+                            "en": "Fundamentals of web development"
+                        },
+                        "description": {
+                            "es": "Desarrollo de habilidades web HTML, CSS y JavaScript.",
+                            "en": "HTML, CSS and JavaScript web skills development."
+                        }
+                    },
+                    {
+                        "year": "2022",
+                        "title": {
+                            "es": "Academlo"
+                        },
+                        "description title": {
+                            "es": "Desarrollo de aplicaciones web con react",
+                            "en": "Web application development with react"
+                        },
+                        "description": {
+                            "es": "Habilidades en el desarrollo de aplicaciones web en react.",
+                            "en": "Web application development skills in react."
+                        }
+                    }
+                ]
+            },
+            {
+                "title": {
+                    "es": "Experiencia",
+                    "en": "Experience"
+                },
+                "list": []
+            }
+        ]
+    }
+}
