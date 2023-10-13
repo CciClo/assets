@@ -100,7 +100,7 @@
                 "using": ["HTML", "Css", "JavaScript"]
             }
         ],
-        "project buttons": {
+        "project_buttons": {
             "github": {
                 "title": { "es": "GitHub", "en": "GitHub" }
             },
@@ -109,7 +109,7 @@
             }
         }
     },
-    "about me": {
+    "about_me": {
         "title": {
             "es": "Acerca de mí",
             "en": "About me"
@@ -127,11 +127,11 @@
                 "list": [
                     {
                         "year": "2022",
-                        "title": {
+                        "organization": {
                             "es": "Academlo",
                             "en": "Academlo"
                         },
-                        "description title": {
+                        "area": {
                             "es": "Fundamentos del desarrollo web",
                             "en": "Fundamentals of web development"
                         },
@@ -142,11 +142,11 @@
                     },
                     {
                         "year": "2022",
-                        "title": {
+                        "organization": {
                             "es": "Academlo",
                             "en": "Academlo"
                         },
-                        "description title": {
+                        "area": {
                             "es": "Desarrollo de aplicaciones web con react",
                             "en": "Web application development with react"
                         },
