@@ -5,7 +5,8 @@
             "en": "Front-End\nWeb Developer"
         },
         "name": {
-            "es": "Oscar Tandioy"
+            "es": "Oscar Tandioy",
+            "en": "Oscar Tandioy"
         },
         "description": {
             "es": "Con conocimientos en HTML, CSS, Java Script y React. Soy una persona a la que le gusta reinventarme constantemente en busca de lograr un mejor rendimiento.\nMi perfil está orientado hacia el logro, la proactividad, la resolución de problemas y un espíritu de aprendizaje constante. He encontrado una gran pasión por el desarrollo web y la implementación de aplicaciones que buscan satisfacer necesidades sociales básicas.",
@@ -101,7 +102,7 @@
         ],
         "project buttons": {
             "github": {
-                "title": { "es": "GitHub" }
+                "title": { "es": "GitHub", "en": "GitHub" }
             },
             "online": {
                 "title": { "es": "Ver la pagina", "en": "View page" }
@@ -127,7 +128,8 @@
                     {
                         "year": "2022",
                         "title": {
-                            "es": "Academlo"
+                            "es": "Academlo",
+                            "en": "Academlo"
                         },
                         "description title": {
                             "es": "Fundamentos del desarrollo web",
@@ -141,7 +143,8 @@
                     {
                         "year": "2022",
                         "title": {
-                            "es": "Academlo"
+                            "es": "Academlo",
+                            "en": "Academlo"
                         },
                         "description title": {
                             "es": "Desarrollo de aplicaciones web con react",
