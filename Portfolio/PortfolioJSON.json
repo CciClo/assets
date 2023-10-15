@@ -63,7 +63,10 @@
                 "image": "https://github.com/CciClo/assets/raw/main/ProjectsImagesPortfolio/rick-y-morty.jpg",
                 "github": "https://github.com/CciClo/Entrgable3",
                 "online": "https://rickandmorty-jesus-oscar.netlify.app/",
-                "description": "Aplicación web creada con React, Axios y React-router-dom, la aplicación fue creada y trabajada conjuntamente por dos personas tanto para estilos como para funcionalidad. La aplicación puede buscar, mostrar información de los personajes en su dimensión en la serie animada Rick y Morty utilizando la API de Rick y Morty, da ubicaciones al azar, algunos mundos no tienen ciudadanos.",
+                "description": {
+                    "es": "Aplicación web creada con React, Axios y React-router-dom, la aplicación fue creada y trabajada conjuntamente por dos personas tanto para estilos como para funcionalidad. La aplicación puede buscar, mostrar información de los personajes en su dimensión en la serie animada Rick y Morty utilizando la API de Rick y Morty, da ubicaciones al azar, algunos mundos no tienen ciudadanos.",
+                    "en": "Web application created with React, Axios and React-router-dom, the application was created and worked together by two people for both styles and functionality. The application can search, display information of characters in their dimension in the animated series Rick and Morty using the Rick and Morty API, gives random locations, some worlds have no citizens."
+                },
                 "using": ["React", "Axios", "React-router-dom"]
             },
             {
@@ -118,7 +121,7 @@
             "es": "Soy un desarrollador Front-End apasionado por lo que hago, cada día disfruto más de los retos y aprendizajes que me presenta la tecnología.\nDurante este proceso he cultivado además de mis habilidades de programación una gran adaptación hacia el trabajo en equipo.\nMis habilidades técnicas, actualmente soy desarrollador Front-End. Tengo conocimientos en el manejo de HTML, CSS, JavaScript y React. Todo esto complementado con una gran cantidad de librerías para la comodidad del desarrollo como Bootstrap. También tengo conocimientos en desarrollo de aplicaciones de juegos con Godot.",
             "en": "I am a Front-End developer passionate about what I do, every day I enjoy the challenges and learning that technology presents me.\nDuring this process I have cultivated, in addition to my programming skills, a great adaptation to teamwork.\nMy technical skills, I am currently a Front-End developer. I have knowledge in handling HTML, CSS, JavaScript and React. All this complemented with a lot of libraries for the convenience of development such as Bootstrap. I also have knowledge in game application development with Godot."
         },
-        "information about me": [
+        "information_about_me": [
             {
                 "title": {
                     "es": "Educación",
